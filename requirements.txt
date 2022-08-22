@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+gunicorn
+uvloop
+httptools
